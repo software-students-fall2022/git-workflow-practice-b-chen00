@@ -9,3 +9,7 @@
 Even though it is very easy to copy and paste what you need, Stack Overflow provides a good opportunity to learn from others.
 <div align="right">Brandon Chen</div>
 </p>
+
+## Comment from Tim Chen
+
+This is indeed an interesting article. I think StackOverflow is a double-edged sword. On the one hand, it can improve our work efficiency, save our debugging time, and let us learn new things; but on the other hand, we can easily be “addicted” by it - - so that as soon as we have any problems, we go to StackOverflow to search for solutions, which will weaken our ability to think independently about our future issues. So I think we need to use StackOverflow reasonably and moderately; in addition, when we answer questions on StackOverflow, we also need to help the questioner understand What and Why the problem is rather than simply provide a solution.
