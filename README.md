@@ -13,3 +13,7 @@ Even though it is very easy to copy and paste what you need, Stack Overflow prov
 ## Comment from Tim Chen
 
 This is indeed an interesting article. I think StackOverflow is a double-edged sword. On the one hand, it can improve our work efficiency, save our debugging time, and let us learn new things; but on the other hand, we can easily be “addicted” by it - - so that as soon as we have any problems, we go to StackOverflow to search for solutions, which will weaken our ability to think independently about our future issues. So I think we need to use StackOverflow reasonably and moderately; in addition, when we answer questions on StackOverflow, we also need to help the questioner understand What and Why the problem is rather than simply provide a solution.
+
+## Comment from Misha Seo
+
+This was a great article.  I have used Stack Overflow throughout my years in college, and have always found it super helpful.  However, I have never thought about the statistics, namely what percentage of the users contribute, and what percentage of software engineers actually use the website.  As well, I think that the article offered a really good lesson at the end, regarding the use of Stack Overflow.  The lesson that people should not use it to steal and that there is a learning experience which comes from using it as resource was really well presented in this article.  
